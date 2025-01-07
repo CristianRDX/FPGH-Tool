@@ -60,7 +60,7 @@ Once the links have been extracted, use the buttons at the bottom or the context
 
 # DISCLAIMER
 
-This application has no direct affiliation with DVDFab company and its purpose is to manage the installation of legally purchased DVDFab applications. The author is not responsible for the misuse of this tool for any other activity than the one mentioned above.
+Neither this application nor the author have direct affiliation with DVDFab company. The purpose of this application is to manage the installation of legally purchased DVDFab applications. The author is not responsible for the misuse of this tool for any other activity than the one mentioned before.
 
 # DONATIONS
 
