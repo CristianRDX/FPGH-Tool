@@ -1,5 +1,7 @@
 # FPGH-Tool
 
+https://i.postimg.cc/05dP9P81/screenshot.png
+
 # ABOUT THIS TOOL
 
 This small application allows you to perform common actions on DVDFab music/streaming downloaders and video convertion applications. It also allows the extraction of download links of offline installers, from an online installer. These two features are described separately below.
