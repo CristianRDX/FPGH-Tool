@@ -58,3 +58,10 @@ NOTE: Some applications are only available for x64. In that case the 64-bit link
 
 Once the links have been extracted, use the buttons at the bottom or the context menu to select the desired links and copy them to the clipboard. You can also manually place a check mark on certain links you want.
 
+# DISCLAIMER
+
+This application has no direct affiliation with DVDFab company and its purpose is to manage the installation of legally purchased DVDFab applications. The author is not responsible for the misuse of this tool for any other activity than the one mentioned above.
+
+# DONATIONS
+
+Access and use of this tool is free, but if you wish you can support its development with a donation via PayPal to the email cristianadrian82@gmail.com. Any amount is welcome. Thanks in advance.
