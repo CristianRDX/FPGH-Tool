@@ -1,6 +1,6 @@
 # FPGH-Tool
 
-https://i.postimg.cc/05dP9P81/screenshot.png
+![](https://i.postimg.cc/05dP9P81/screenshot.png)
 
 # ABOUT THIS TOOL
 
